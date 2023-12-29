@@ -1,0 +1,20 @@
+{
+    "students":[
+        {"id":"s1","name":"Ravi"},{"id":"s2","name":"Vimal"}
+    ],
+    "staff":[
+        {"id":"sf1","name":"Anto"},{"id":"sf2","name":"Joe"}
+    ],
+    "subject":[
+        {"id":"sj1","name":"tamil"},{"id":"sj2","name":"Computer Applications"}
+    ],
+    "mapping":[
+        {
+            "id":"m1",
+            "sub":"sj1",
+            "staff":"sf1",
+            "stud":["s1","s2"],
+            "activity":["Write something about you ?","What is your favorite cartoons ?"]
+        }
+    ]
+}

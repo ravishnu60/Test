@@ -1,0 +1,8 @@
+.col-form-label{
+    font-weight: bold;
+}
+
+#chart {
+    max-width: 600px;
+    margin: 35px auto;
+  }
